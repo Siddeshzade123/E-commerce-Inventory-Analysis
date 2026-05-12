@@ -1,5 +1,6 @@
 # E-commerce-Inventory-Analysis
 Zepto Inventory Analysis project using Excel &amp; SQL to identify stock gaps and inefficiencies. Improved data accuracy, reduced dead stock, and enhanced order fulfillment through data-driven insights.
+
 📌 Overview
 
 This project simulates a real-world data analyst workflow using an e-commerce inventory dataset scraped from Zepto. It focuses on data cleaning, exploratory data analysis (EDA), and business-driven insights using SQL to improve inventory and pricing decisions.
